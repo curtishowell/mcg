@@ -1,0 +1,431 @@
+
+/* reset dat shit */
+* {
+	margin: 0px;
+	padding: 0px;	
+	font-family: Arial, Helvetica, sans-serif;
+	border: none;
+}
+
+p {
+	font-size: 14pt;
+	margin-bottom: 15px;
+}
+
+a, a:visited {
+	color: #660066;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	/*background-color: #656565;*/
+	background-image: url('img/carbon_fiber2.jpg');
+	background-attachment: fixed;
+}
+
+#content {
+	padding: 70px 25px 25px 25px;
+	min-height: 310px;
+	overflow: hidden;
+}
+
+#client_logos {
+	width: 250px;
+	overflow: hidden;
+	float: right;
+}
+
+#client_logos div {
+	background-color: #660066;
+	padding: 15px;
+}
+
+#client_logos h2 {
+	border-bottom: 2px solid #660066;
+	margin-bottom: 11px;
+	color: #660066;
+}
+
+#client_logos img {
+	margin-bottom: 15px;
+}
+
+#client_logos img.last {
+	margin-bottom: 0px;
+}
+
+.client_story {
+	background-color: rgba(255, 153, 0, .25);
+	margin-bottom: 20px;
+	padding: 20px;
+	width: 550px;
+}
+
+.content_with_sidebar {
+	/*border-left: 2px solid gray;*/
+	float: right;
+	width: 600px;
+}
+
+.contact_us {
+	background-image: url('img/orange-phone-short.jpg');
+	background-repeat: no-repeat;
+	height: 397px;
+	padding-top: 75px;
+	position: relative;
+	right: -25px;
+}
+
+.contact_us span {
+	padding: 25px;
+	background-color: rgba(252, 252, 252, .75);
+	font-size: 40px;
+}
+
+#feature {
+	margin: 0px auto 30px auto;
+	width: 80%;
+	text-align: center;
+}
+
+#feature_content {
+	width: 70%;
+	overflow: hidden;
+	margin: 0px auto;
+	border-radius: 5px;
+}
+
+#feature_content div {
+	border: 1px solid gray;
+	border-top: none;
+	border-radius: 0px 0px 5px 5px;
+}
+
+#footer {
+	margin: 2px auto 0px auto;
+	height: 54px; /*matches height of uw logo span*/
+	background-color: white;
+	/*overflow: hidden; fixes problem at bottom but cuts off logo. maybe logo will just live inside footer*/
+}
+
+#footer ul {
+	float: left;
+	width: 60%;
+	margin: 15px 10px;
+}
+
+#footer li {
+	list-style-type: none;
+	display: inline-block;
+	border-right: 1px solid gray;
+	padding-right: 5px;
+}
+
+#footer .last_item {
+	border: none;
+}
+
+#hat>div {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+#hat {
+	height: 60px;
+	width: 100%;
+	background-color: #E2E2E2;
+	box-shadow: 0px 1px 5px black;
+	-moz-box-shadow: 0px 1px 5px black;
+	-webkit-box-shadow: 0px 1px 5px black;
+	position: fixed;
+	z-index: 1000000;
+}
+
+#hat>div>div {
+	width: 940px;
+	height: 80px; /* 80 so the selected topnav item can drip down over page*/
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+#hat img {
+	margin-top: 10px;
+	margin-left: 2px;
+}
+
+#hat ul {
+	float: right;
+	padding-top: 5px;
+	margin-right: 50px;
+}
+
+#hat ul.none_selected {
+	padding-top: 10px;
+}
+
+#hat li { /* topnav */
+	list-style-type: none;
+	display: inline-block;
+	background-color: #E2E2E2;
+	margin-left: 9px;
+}
+
+
+
+#hat li:hover, #hat li.selected {
+	background-color: #C6C6C6;
+}
+
+#hat li.selected {
+	border-top: 5px solid #660066;
+	box-shadow: 0px 6px 5px -3px #660066;
+	-moz-box-shadow: 0px 6px 5px -3px #660066;
+	-webkit-box-shadow: 0px 6px 5px -3px #660066;
+}
+
+#hat li a {
+	padding: 15px;
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+	line-height: 50px;
+}
+
+.hide_me {
+	display: none;
+}
+
+hr {
+	border: 1px solid lightgray;
+	margin-bottom: 25px;
+}
+
+#invisibilitycloak {
+	height: 60px;
+	width: 100%;
+}
+
+#logo {
+	height: 60px;
+	width: 266px;
+	background-color: black;
+	text-align: center;
+	display: block;
+}
+
+#logo img {
+	margin-top: 0px;
+}
+
+.member_grid {
+	width: 200px;
+	float: left;
+	margin: 0px 115px 70px 0px;
+	padding: 10px;
+	text-align: center;
+	border-radius: 4px;
+	background:#DDD;
+	position: relative; /* necessary for drop shadows to work*/
+	cursor: pointer;
+}
+
+.member_grid img {
+	height: 136px;
+}
+
+.member_grid:before, .member_grid:after {
+  z-index: -1;
+  position: absolute;
+  content: "";
+  bottom: 15px;
+  left: 10px;
+  width: 50%;
+  top: 80%;
+  max-width:300px;
+  background: rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 0 15px 10px rgba(0,0,0, 0.7);
+  -moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+
+.member_grid:after {
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: 10px;
+  left: auto;
+}
+
+.member_grid .title {
+	font-size: 75%;
+}
+
+#page {
+	background-color: white;
+	width: 100%;
+	margin: 0px;
+	overflow: hidden;
+}
+
+#sidebar {
+	float: left;
+	width: 249px;
+	padding-top: 75px;
+	/*position: fixed;*/
+}
+
+#sidebar li {
+	list-style-type: none;
+	background-color: #C6C6C6;
+	margin-bottom: 11px;
+	height: 47px;
+	border-bottom: 1px solid gray;
+	border-right: 1px solid gray;
+}
+
+#sidebar li.selected {
+	border-top-right-radius: 10px 20px;
+	border-bottom-right-radius: 10px 20px;
+	width: 260px;
+	border-left: 5px solid #660066;
+	box-shadow: 6px 0px 5px -3px #660066;
+	-moz-box-shadow: 6px 0px 5px -3px #660066;
+	-webkit-box-shadow: 6px 0px 5px -3px #660066;
+}
+
+#sidebar li a {
+	padding-left: 5px;
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+	line-height: 30px;
+	width: 218px
+	display: block;
+	line-height: 40px;
+	position: relative;
+	top: 5px;
+}
+
+#sidebar .sub_item {
+	padding-left: 30px;
+}
+
+.story {
+	width: 265px;
+	float: left;
+	border-right: 2px solid lightgray;
+	padding-right: 22px;
+	margin-right: 22px;
+	min-height: 330px;
+	cursor: pointer;
+}
+
+.story .learn_more {
+	position: absolute;
+	top: 835px;
+}
+
+.story h2 {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.story img {
+	margin: 10px 0px;
+}
+
+.last_item {
+	margin-right: 0px;
+	padding-right: 0px;
+	border-right: none;
+}
+
+#wrapper {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	box-shadow: 0px 0px 10px 5px black;
+	-moz-box-shadow: 0px 0px 10px 5px black;
+	-webkit-box-shadow: 0px 0px 10px 5px black;
+	overflow: hidden;
+	width: 940px;
+	margin-left: 10px;
+}
+
+#bumper {
+	width: 960px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+/* team page fancy shit */
+.white_party {
+	background-color: rgba(252, 252, 252, .75);
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 2000000;
+	display: none;
+	overflow-x: auto;
+	overflow-y: scroll;
+}
+
+/* most of these are stolen from Facebook's photo viewer. Huzzah! */
+.white_party > div {
+	background-color: white;
+	-webkit-box-shadow: 0 0 1px rgba(0, 0, 0, .25), 0 1px 5px 3px rgba(0, 0, 0, .05), 0 5px 4px -3px rgba(0, 0, 0, .06);
+	margin: 9px auto 40px auto;
+	padding: 30px;
+	width: 720px;
+	
+}
+
+.white_party > div > img {
+	float:left;
+	margin: 0px 20px 20px 0px;
+	box-shadow: 5px 5px 10px -3px #888;
+}
+
+.white_party > div > p > span {
+	font-weight: bold;
+}
+
+.white_party .member_name {
+	font-size: 3em;
+	margin-bottom: 20px;
+}
+
+.white_party .essay {
+	clear:both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+[24-Feb-2011 02:20:48] PHP Parse error:  syntax error, unexpected $end in /home2/montlake/public_html/dev/members.php on line 514
+[24-Feb-2011 02:21:20] PHP Fatal error:  Call to undefined function  random() in /home2/montlake/public_html/dev/members.php on line 12
+[24-Feb-2011 02:22:46] PHP Fatal error:  Call to undefined function  random() in /home2/montlake/public_html/dev/members.php on line 12
+[24-Feb-2011 02:26:32] PHP Parse error:  syntax error, unexpected ';' in /home2/montlake/public_html/dev/members.php on line 26
+[24-Feb-2011 12:19:25] PHP Parse error:  syntax error, unexpected '}' in /home2/montlake/public_html/dev/members.php on line 19
+[24-Feb-2011 12:19:48] PHP Warning:  file() expects parameter 3 to be resource, integer given in /home2/montlake/public_html/dev/members.php on line 2
+[24-Feb-2011 12:20:10] PHP Warning:  file(members.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home2/montlake/public_html/dev/members.php on line 2
+[24-Feb-2011 12:22:30] PHP Parse error:  syntax error, unexpected T_STRING in /home2/montlake/public_html/dev/members.php on line 2
+[24-Feb-2011 12:22:43] PHP Warning:  file() expects parameter 3 to be resource, integer given in /home2/montlake/public_html/dev/members.php on line 2
+[24-Feb-2011 12:23:18] PHP Parse error:  syntax error, unexpected '[' in /home2/montlake/public_html/dev/members.php on line 2
+[24-Feb-2011 12:23:31] PHP Parse error:  syntax error, unexpected '{' in /home2/montlake/public_html/dev/members.php on line 2
+[24-Feb-2011 12:28:59] PHP Parse error:  syntax error, unexpected ')' in /home2/montlake/public_html/dev/members.php on line 18
+[24-Feb-2011 12:29:19] PHP Fatal error:  Call to undefined function  pirnt_r() in /home2/montlake/public_html/dev/members.php on line 19
+[24-Feb-2011 12:53:08] PHP Parse error:  syntax error, unexpected T_AS, expecting ';' in /home2/montlake/public_html/dev/members.php on line 43
+[24-Feb-2011 12:53:29] PHP Parse error:  syntax error, unexpected T_AS, expecting ';' in /home2/montlake/public_html/dev/members.php on line 44
+[24-Feb-2011 12:53:31] PHP Parse error:  syntax error, unexpected T_AS, expecting ';' in /home2/montlake/public_html/dev/members.php on line 44
+[24-Feb-2011 12:55:15] PHP Parse error:  syntax error, unexpected $end in /home2/montlake/public_html/dev/members.php on line 561
+[24-Feb-2011 14:03:56] PHP Parse error:  syntax error, unexpected '}' in /home2/montlake/public_html/dev/members.php on line 33
+[24-Feb-2011 14:04:13] PHP Parse error:  syntax error, unexpected '}' in /home2/montlake/public_html/dev/members.php on line 34
+[24-Feb-2011 14:05:28] PHP Parse error:  syntax error, unexpected '}' in /home2/montlake/public_html/dev/members.php on line 34
+[24-Feb-2011 14:05:29] PHP Parse error:  syntax error, unexpected '}' in /home2/montlake/public_html/dev/members.php on line 34
+[24-Feb-2011 14:07:20] PHP Parse error:  syntax error, unexpected $end in /home2/montlake/public_html/dev/members.php on line 585
+[06-Mar-2011 19:55:34] PHP Parse error:  syntax error, unexpected '<' in /home2/montlake/public_html/dev/members.php on line 67

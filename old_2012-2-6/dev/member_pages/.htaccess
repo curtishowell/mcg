@@ -1,0 +1,4 @@
+AuthName "Member_Pages"
+AuthUserFile "/home2/montlake/.htpasswds/public_html/test/member_pages/passwd"
+AuthType Basic
+require valid-user
