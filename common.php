@@ -8,7 +8,7 @@
 		<head>
 		
 			<title><?=$title?> :: MCG</title>
-			<link href="sst.css" type="text/css" rel="stylesheet" />
+			<link href="mcg.css" type="text/css" rel="stylesheet" />
 			
 			<link href="img/favicon.png" type="image/png" rel="shortcut icon" />
 			
