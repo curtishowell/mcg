@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <people xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<person>
-		<firstname>Venkat</firstname>
-		<lastname>Rao</lastname>
-		<class>5th Year</class>
-		<major1>Business Administration</major1>
-		<concentration1>Finance</concentration1>
-		<major2>Computer Science</major2>
-		<bio>Venkat is 5th year senior pursuing a double degree in Business and Computer Science. He has been with MCG for the past three years and has served in the roles of Consultant, Manager, and Partner. Venkat is passionate about technology and will be starting as an Associate Product Manager at Google in Fall 2012. He has also gained valuable skills through internship experiences, both at Google and Liberty Mutual, and through participating in several case competitions. In his free time, Venkat enjoys staying active and is an avid traveler.</bio>
-		<position>Partner</position>
-		<projects>Microsoft, Starbucks, Expeditors International, Real Networks, Bartlett Tree Experts, Cyberstreams, Kaiso Solutions, Lumana, King County Metro</projects>
-		<linkedin>http://www.linkedin.com/profile/view?id=31457293</linkedin>
-		<imagethumb>VenkatR.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Jenny</firstname>
-		<lastname>Sang</lastname>
-		<class>Senior</class>
-		<major1>Business</major1>
-		<concentration1>Finance, Marketing</concentration1>
-		<major2>Economics</major2>
-		<bio>Jenny Sang is currently pursuing a dual degree in Economics and Business with options in Finance and Marketing. She has been a member of MCG for multiple years and has participated in many projects gaining experience in areas such as customer segmentation and marketing, strategy, and operations. Outside of MCG, she has further honed her analytical abilities through active involvement and planning of case competitions at both the local and international level. Jenny also enjoys working outside the Foster community and serving small businesses in the Seattle area, a passion she realized through the extensive work she has completed for the Business and Economic Development Center. She is currently serving as an advisor to 16 student teams consulting for local and minority owned businesses in the area. 
-
-This past summer, Jenny interned for the Strategy group at Accenture and furthered developed her strategic analysis and financial modeling skills. She is excited to be returning to the firm after she graduates in the fall of 2012. In her spare time, she enjoys spending time with her friends and family, playing tennis, and traveling. 
-</bio>
-		<position>Partner</position>
-		<projects>John Howie Restaurants, Basel Action Network, Nordstrom</projects>
-		<linkedin>http://www.linkedin.com/pub/jenny-sang/31/705/867</linkedin>
-		<imagethumb>JennyS.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Chris</firstname>
-		<lastname>Sawyer</lastname>
-		<class>Graduate Student</class>
-		<major1>Business Administration</major1>
-		<concentration1>Accounting</concentration1>
-		<major2>Masters in Accounting</major2>
-		<bio>Chris is a fifth year accounting student in the Masters program.  He has a wide range of experiences spanning from working for a small internet start-up company in Athleon Sports to a large corporation in The Boeing Company.  This past summer he worked as an audit intern for Ernst &amp; Young in the health care field.  He has done extensive work related to supply chain strategy, marketing campaigns, project management, and financial analysis.  Chris is looking forward to starting his career in the Ernst and Young Tax practice this fall.  </bio>
-		<position>Partner</position>
-		<projects>John Howie Restaurants, Basel Action Network</projects>
-		<linkedin>http://www.linkedin.com/profile/edit?trk=hb_tab_pro_top</linkedin>
-		<imagethumb>ChrisS.jpg</imagethumb>
-		<concentration2>Taxation</concentration2>
-	</person>
-	<person>
-		<firstname>Joyita</firstname>
-		<lastname>Banerjee</lastname>
-		<class>Senior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Finance &amp; Marketing</concentration1>
-		<major2>Psychology</major2>
-		<bio>Joyita Banerjee is currently pursuing a Business degree with a focus in Finance and Marketing along with a Bachelors of Arts in Psychology. She has been a manager for Montlake Consulting Group for two years and has had the opportunity to participate in projects focusing on operations, marketing, and strategy. Outside of MCG, she continues to be very active in the University of Washington community. 
-
-Through her involvement in both local and international case competitions, she has received two 1st place titles. In addition, she has gained a unique business perspective by interning for the UW Business and Economic Development Center and working for the UW Business Diversity Program. Through these positions, she has provided consulting services to small businesses directly as well as contributed to the University of Washington's small, local, and diverse business utilization strategic initiatives. 
-
-Aside from academic pursuits, Joyita is involved in other organizations as well. With a passion for singing, she has toured around Eastern Europe with the University of Washington Chorale and participates in acapella singing groups. She is also a board member of the State Farm Youth Advisory Board that allocated $5 million to youth service learning initiatives across the nation. In the Fall of 2012, she is excited to be joining Deloitte &amp; Touche's Advisory Services in San Francisco, CA. </bio>
-		<position>Manager</position>
-		<projects>John Howie Restaurants, Lumana, King County Metro</projects>
-		<linkedin>http://www.linkedin.com/pub/joyita-banerjee/32/877/287</linkedin>
-		<imagethumb>JoyitaB.jpg</imagethumb>
-	</person>
-	<person>
 		<firstname>Curtis</firstname>
 		<lastname>Howell</lastname>
 		<class>Senior</class>
@@ -68,10 +8,74 @@ Aside from academic pursuits, Joyita is involved in other organizations as well.
 		<concentration1>Entrepreneurship</concentration1>
 		<major2>Informatics</major2>
 		<bio>Curtis is pursuing degrees in Informatics and Business Administration with a focus in Entrepreneurship. He keeps busy with a number of volunteer activities including serving student representative on the Student Technology Fee Committee for the University of Washington and as the IT Manager for Montlake Consulting Group. Last summer Curtis interned as a Program Manager with Microsoft Office before crossing the pond to study abroad for a semester at Copenhagen Business School. In his spare time, Curtis enjoys tennis, golf, softball, skiing and competing in triathlons.</bio>
-		<position>Manager</position>
+		<position>Managing Partner</position>
 		<projects>King County Metro</projects>
 		<linkedin>http://linkedin.com/in/curtisjhowell</linkedin>
 		<imagethumb>CurtisH.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Cory</firstname>
+		<lastname>Slater Scancella</lastname>
+		<class>Senior</class>
+		<major1>Business</major1>
+		<concentration1>Accounting</concentration1>
+		<bio>Cory is a junior majoring in Business with an Accounting focus. He is currently the Portfolio Implementation intern at Russell Investments, where he works on the trading floor, within the Investment Division. Past work experience includes managing and operating his own highly profitable painting business the summer after his freshman year, employing a full-time crew of employees. He will likely obtain his CPA before, or shortly after, entering the workforce. Additionally, Cory wants to get an MBA after a few years of experience in the professional world. 
+
+With the help of MCG, Cory has realized that the management consulting industry is aligned perfectly with his passions and abilities, and he hopes to enter it upon completion of his degree. This past year in MCG, Cory had the opportunity to work with two clients, one of which was Seattle-based retailer Nordstroms, Inc., which culminated in a presentation of findings and actionable recommendations to the V.P. of full-line stores and V.P. of Strategy, among others. The other project surrounded a concept called Transit Oriented Development (TOD) for the Seattle transit organization, King County Metro. Cory is currently managing a follow-up project with King County Metro in Autumn 2011 and Winter 2012. </bio>
+		<position>Managing Partner</position>
+		<projects>King County Metro, Nordstrom</projects>
+		<linkedin>http://www.linkedin.com/pub/cory-slater-scancella/32/ab1/507</linkedin>
+		<imagethumb>CoryS.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Evan</firstname>
+		<lastname>Griffith</lastname>
+		<class>Senior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Finance &amp; Information Systems</concentration1>
+		<bio>Evan is a junior majoring in Business Administration with concentrations in Finance and Information Systems. He is currently the Marketing Director for Advertising Club UW, a student-run advertising agency. He is also active in case competitions, and recently placed first in the Diversity in Business Case Competition. Evan will be joining Amazon.com in the Spring as a Financial Analyst Intern for six months. After graduation, he hopes to pursue a career in Management Consulting, and go on to obtain an MBA. Evan is currently staffed on his first engagement with MCG working with King County Metro.</bio>
+		<position>Junior Partner</position>
+		<linkedin>http://www.linkedin.com/in/evancgriffith</linkedin>
+		<imagethumb>EvanG.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Eric</firstname>
+		<lastname>Bauer</lastname>
+		<class>Senior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Accounting</concentration1>
+		<major2>Business Administration</major2>
+		<bio>Eric Bauer is in his 3rd year of study at the University of Washington, and will complete his degree in Business Administration in 2013. He is pursuing options in accounting and information systems, which reflect his interests in technology and financial analysis. Eric has substantial entrepreneurial experience with small consumer service companies. He also has professional experience with StudyManager, which provides cloud-based software used to track clinical trials, and Merrill Lynch. His extracurricular interests include health and fitness, cooking, and photography.</bio>
+		<position>Manager</position>
+		<linkedin>http://www.linkedin.com/pub/eric-bauer/14/265/65</linkedin>
+		<imagethumb>EricB.jpg</imagethumb>
+		<concentration2>Information Systems</concentration2>
+	</person>
+	<person>
+		<firstname>Suparno</firstname>
+		<lastname>Chakrabarti</lastname>
+		<class>Junior</class>
+		<major1>Applied &amp; Computational Math Sciences</major1>
+		<concentration1>Operations Research</concentration1>
+		<major2>Informatics</major2>
+		<bio>Suparno is a junior in Applied Computational Math Sciences and Informatics. His work experiences include working for Mountain Plus Outdoor gear as a web developer, he sits on the Board of Trustees for the University Bookstore, as well as the Finance and Budget Committee for the Associated Students of the University of Washington. He is currently a Resident Adviser in Lander Hall. Suparno hopes to earn a Masters degree in Applied Mathematics or Computer Science.</bio>
+		<position>Manager</position>
+		<linkedin>http://www.linkedin.com/profile/view?id=91420225&amp;trk=tab_pro</linkedin>
+		<imagethumb>SuparnoC.jpg</imagethumb>
+		<concentration2>Information Architecture</concentration2>
+	</person>
+	<person>
+		<firstname>Adam</firstname>
+		<lastname>Greenberg</lastname>
+		<class>Senior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Finance</concentration1>
+		<major2>Business Administration</major2>
+		<bio>Adam is a senior majoring in Business Administration with a double concentration in Finance and Entrepreneurship. He is also just short of an Environmental Studies minor. He grew up in San Francisco and moved to Seattle to attend the University of Washington. His work experience includes financial analyst at Amazon.com and CFO of The MS Children's Book non profit organization. Past consulting experiences include social media, graphic user interfaces, and financial analysis. This past summer he interned at Asset Management Strategies Inc. and studied abroad in Italy. In his spare time, he enjoys tennis, photography, volunteering, and traveling. </bio>
+		<position>Manager</position>
+		<linkedin>http://www.linkedin.com/in/adamgreenberg1</linkedin>
+		<imagethumb>AdamG.jpg</imagethumb>
+		<concentration2>Entrepreneurship</concentration2>
 	</person>
 	<person>
 		<firstname>Jim</firstname>
@@ -87,56 +91,20 @@ Aside from academic pursuits, Joyita is involved in other organizations as well.
 		<concentration2>Finance</concentration2>
 	</person>
 	<person>
-		<firstname>Kelcey</firstname>
-		<lastname>Simpson</lastname>
+		<firstname>Munir</firstname>
+		<lastname>Nanjee</lastname>
 		<class>Senior</class>
 		<major1>Business Administration</major1>
 		<concentration1>Accounting and Information Systems</concentration1>
-		<bio>Kelcey is a Business Administration major, double concentrating in Information System and Accounting.  She is a Vice President of the Undergraduate Management Consulting Association on campus, and she has also served as an appointed member to the Associated Students of University of Washington’s Finance and Budget Committee. With an interest in health care and life sciences, she worked this summer at a boutique consulting firm in San Francisco analyzing hospital revenue cycles and seeking out lost reimbursement. Additionally, she executed a special project on high cost pharmaceutical drug reimbursement management.  She enjoys participating in case competitions on campus as well as speaking with local high school students about the Foster School of Business. Outside of her academic engagements, Kelcey likes to travel, backpack, play tennis, try new restaurants, and spend time with her family.  </bio>
+		<bio>Munir is a junior majoring in Business Administration with a focus on Accounting and Information System. He has made a name for himself on campus by being involved with multiple activities and taking leadership roles. He is currently the president of Sigma Beta Rho Fraternity and co-founder of an activist group on campus. He was also on the executive board for his hall council which was awarded top residence hall community in the Western U.S. by the Pacific Affiliate of College and University Residence Hall (PACURH). Last summer he interned at Mercer and consulted for Sunkist, Value Click, and Children's Hospital in the areas of Health and Benefits. He has a passion for consulting and financial analysis. </bio>
 		<position>Manager</position>
-		<imagethumb>KelceyS.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Cory</firstname>
-		<lastname>Slater Scancella</lastname>
-		<class>Junior</class>
-		<major1>Business</major1>
-		<concentration1>Accounting</concentration1>
-		<bio>Cory is a junior majoring in Business with an Accounting focus. He is currently the Portfolio Implementation intern at Russell Investments, where he works on the trading floor, within the Investment Division. Past work experience includes managing and operating his own highly profitable painting business the summer after his freshman year, employing a full-time crew of employees. He will likely obtain his CPA before, or shortly after, entering the workforce. Additionally, Cory wants to get an MBA after a few years of experience in the professional world. 
-
-With the help of MCG, Cory has realized that the management consulting industry is aligned perfectly with his passions and abilities, and he hopes to enter it upon completion of his degree. This past year in MCG, Cory had the opportunity to work with two clients, one of which was Seattle-based retailer Nordstroms, Inc., which culminated in a presentation of findings and actionable recommendations to the V.P. of full-line stores and V.P. of Strategy, among others. The other project surrounded a concept called Transit Oriented Development (TOD) for the Seattle transit organization, King County Metro. Cory is currently managing a follow-up project with King County Metro in Autumn 2011 and Winter 2012. </bio>
-		<position>Manager</position>
-		<projects>King County Metro, Nordstrom</projects>
-		<linkedin>http://www.linkedin.com/pub/cory-slater-scancella/32/ab1/507</linkedin>
-		<imagethumb>CoryS.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Sugandhan</firstname>
-		<lastname>Venkatachalam</lastname>
-		<class>Senior</class>
-		<major1>Bioengineering</major1>
-		<major2>Electrical Engineering</major2>
-		<bio>Sugandhan is a fifth year double degree graduating this March. He has a wide range of experience working in research, a small tech company, and Deloitte Consulting. He was an intern with Deloitte in Strategy and Management last summer and is looking forward to returning to the firm as a full time analyst.</bio>
-		<position>Manager</position>
-		<projects>RealNetworks, John Howie, Cyberstreams</projects>
-		<imagethumb>SuguV.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Rachel</firstname>
-		<lastname>Abbott</lastname>
-		<class>Senior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Marketing</concentration1>
-		<major2>Psychology</major2>
-		<bio>Rachel is a senior pursuing a double degree in Marketing and Psychology. Previously, she worked in the marketing department for the KeyArena and worked on promoting upcoming events. She also serves as the media planner for an advertising project with the National Film Festival for Talented Youth. Within the past year, she has travelled to countries outside of the U.S. for her academics.  She spent a semester abroad studying Spanish and Economics in Spain and also went on other academic trips to Brussels and South Africa. In Brussels, she had the opportunity to meet with various members of the European Union and leaders of consulting projects for struggling economies. When in South Africa, she met with various executives and participated in service-learning projects with local orphanages and academic institutions. Rachel hopes to obtain a job in the marketing, advertising, or consulting industries.</bio>
-		<position>Consultant</position>
-		<linkedin>http://www.linkedin.com/in/abbottrachel4</linkedin>
-		<imagethumb>RachelA.jpg</imagethumb>
+		<linkedin>http://www.linkedin.com/pub/munir-nanjee/16/547/46b</linkedin>
+		<imagethumb>MunirN.jpg</imagethumb>
 	</person>
 	<person>
 		<firstname>Michael</firstname>
 		<lastname>Abboud</lastname>
-		<class>Sophomore</class>
+		<class>Junior</class>
 		<major1>Computer Science</major1>
 		<major2>Electrical Enginerring</major2>
 		<bio>Michael Abboud is a sophomore studying Computer Science and Electrical Engineering. He loves playing sports like football and basketball, attending as many Husky athletics events as he can, and staying involved. Previous experience includes working with the ASUW Special Appropriations Committee and the Finance and Budget Committee dealing with issuing grants and loans to registered student organizations on campus.  Michael plans on receiving his MBA at some point in his career. While he is one of the younger members of MCG, Michael looks forward to the experience with real world issues, and the opportunity to work with a extremely bright and motivated group of future leaders.</bio>
@@ -158,7 +126,7 @@ With the help of MCG, Cory has realized that the management consulting industry 
 	<person>
 		<firstname>Kyle</firstname>
 		<lastname>Bartlow</lastname>
-		<class>Junior</class>
+		<class>Senior</class>
 		<major1>Business Administration</major1>
 		<concentration1>Information Systems</concentration1>
 		<bio>Kyle is a junior majoring in Business Administration with a concentration in Information Systems. He is an experienced case competitor and in his first two years at UW has presented over six cases in a variety of industries.  These competitions have included presentations to faculty, professionals, and executives of local businesses. Kyle’s biggest competition accomplishment to date was placing in the final four of the 2011 Foster Global Business Case Competition, at which 12 teams from 10 different countries were in attendance. This is his first year with MCG and he is excited to bring what he has learned to help local companies.  This summer Kyle will be taking an internship with Triage Consulting Group in San Francisco. In his free time he likes to spend time in the outdoors, with friends, as well as learning about investing and personal finance. </bio>
@@ -167,117 +135,9 @@ With the help of MCG, Cory has realized that the management consulting industry 
 		<imagethumb>KyleB.jpg</imagethumb>
 	</person>
 	<person>
-		<firstname>Eric</firstname>
-		<lastname>Bauer</lastname>
-		<class>Junior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Accounting</concentration1>
-		<major2>Business Administration</major2>
-		<bio>Eric Bauer is in his 3rd year of study at the University of Washington, and will complete his degree in Business Administration in 2013. He is pursuing options in accounting and information systems, which reflect his interests in technology and financial analysis. Eric has substantial entrepreneurial experience with small consumer service companies. He also has professional experience with StudyManager, which provides cloud-based software used to track clinical trials, and Merrill Lynch. His extracurricular interests include health and fitness, cooking, and photography.</bio>
-		<position>Consultant</position>
-		<linkedin>http://www.linkedin.com/pub/eric-bauer/14/265/65</linkedin>
-		<imagethumb>EricB.jpg</imagethumb>
-		<concentration2>Information Systems</concentration2>
-	</person>
-	<person>
-		<firstname>Sean</firstname>
-		<lastname>Burnstead</lastname>
-		<class>Senior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Finance and Entrepreneurship</concentration1>
-		<bio>Sean is a senior majoring in Finance and Entrepreneurship at the Foster School of Business. His work experience includes an advisory consulting internship with Deloitte and Touche and a marketing internship with Contour. Sean was the president of Beta Theta Pi (the largest fraternity at UW with 115 members) during the 2010 school year. He has a strong interest in the media/entertainment, real estate, and retail sectors. Aside from his business pursuits, Sean is an avid golfer and aspiring musician. Sean is working on the King County Metro/ GVA Kidder Mathews project this quarter. </bio>
-		<position>Consultant</position>
-		<projects>King County Metro</projects>
-		<linkedin>http://www.linkedin.com/profile/view?id=125969287&amp;trk=tab_pro</linkedin>
-		<imagethumb>SeanB.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Suparno</firstname>
-		<lastname>Chakrabarti</lastname>
-		<class>Junior</class>
-		<major1>Applied &amp; Computational Math Sciences</major1>
-		<concentration1>Operations Research</concentration1>
-		<major2>Informatics</major2>
-		<bio>Suparno is a junior in Applied Computational Math Sciences and Informatics. His work experiences include working for Mountain Plus Outdoor gear as a web developer, he sits on the Board of Trustees for the University Bookstore, as well as the Finance and Budget Committee for the Associated Students of the University of Washington. He is currently a Resident Adviser in Lander Hall. Suparno hopes to earn a Masters degree in Applied Mathematics or Computer Science.</bio>
-		<position>Consultant</position>
-		<linkedin>http://www.linkedin.com/profile/view?id=91420225&amp;trk=tab_pro</linkedin>
-		<imagethumb>SuparnoC.jpg</imagethumb>
-		<concentration2>Information Architecture</concentration2>
-	</person>
-	<person>
-		<firstname>Jimmy</firstname>
-		<lastname>Chuang</lastname>
-		<class>5th Year</class>
-		<major1>Computer Science</major1>
-		<concentration1>Software Engineering</concentration1>
-		<major2>Informatics</major2>
-		<bio>Jimmy Chuang is a senior double majoring in Computer Science and Informatics with a concentration in Information Architecture. His work experience includes interning at Trend Micro, a global anti-virus software company, in summer 2010 and at Amazon.com in this past summer. Jimmy will be returning to Amazon.com as a full-time software development engineer after he graduates in June 2012. He is an active member in the University of Washington community. He served as treasurer at the Taiwanese Student Association last year and worked in public relations the year before.  In his spare time, Jimmy enjoys reading books and playing golf under the precious Seattle sun. In the future, Jimmy hopes to pursue a Master degree in Computer Science and Master in Finance after working in the IT industry for a few years.</bio>
-		<position>Consultant</position>
-		<projects>Basel Action Network, Lumana</projects>
-		<linkedin>http://www.linkedin.com/pub/cheng-hao-chuang/26/b67/323</linkedin>
-		<imagethumb>JimmyC.jpg</imagethumb>
-		<concentration2>Information Architecture</concentration2>
-	</person>
-	<person>
-		<firstname>Stephen</firstname>
-		<lastname>Coyle</lastname>
-		<class>Senior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Finance</concentration1>
-		<bio>Stephen Coyle is a graduating senior from the University of Washington majoring in Finance. This past summer he interned for PricewaterhouseCoopers and will be working there fulltime in August 2012. Stephen currently is the president of the undergraduate management consulting club, and is also a member of the Foster School Senior Gift committee. His plans for the future include attending a top business school and starting his own business or joining a small startup. Stephen doesn’t quite know what niche he will fill in the business world, but he looks forward to starting his career and making a name for himself. His one regret from college is not joining MCG sooner, but he looks forward to contributing to the club on a number of assignments this school year. </bio>
-		<position>Consultant</position>
-		<linkedin>http://www.linkedin.com/pub/stephen-coyle/36/3b5/9ab</linkedin>
-		<imagethumb>StephenC.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Marco </firstname>
-		<lastname>del Rosario</lastname>
-		<class>Junior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Marketing and Entrepreneurship</concentration1>
-		<bio>Marco is a junior majoring in Business Administration with a concentration in Marketing and Entrepreneurship.  He currently works as a Resident Advisor at the University of Washington and as a Teaching Assistant at the Foster School of Business.  His previous work experience includes interning for The Coca-Cola company in Singapore in the summer of 2010 and for McCann Worldgroup in 2011.  He hopes to obtain a Masters in Business Administration after joining the workforce for a few years.  </bio>
-		<position>Consultant</position>
-		<imagethumb>MarcoR.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Adam</firstname>
-		<lastname>Greenberg</lastname>
-		<class>Senior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Finance</concentration1>
-		<major2>Business Administration</major2>
-		<bio>Adam is a senior majoring in Business Administration with a double concentration in Finance and Entrepreneurship. He is also just short of an Environmental Studies minor. He grew up in San Francisco and moved to Seattle to attend the University of Washington. His work experience includes financial analyst at Amazon.com and CFO of The MS Children's Book non profit organization. Past consulting experiences include social media, graphic user interfaces, and financial analysis. This past summer he interned at Asset Management Strategies Inc. and studied abroad in Italy. In his spare time, he enjoys tennis, photography, volunteering, and traveling. </bio>
-		<position>Consultant</position>
-		<linkedin>http://www.linkedin.com/in/adamgreenberg1</linkedin>
-		<imagethumb>AdamG.jpg</imagethumb>
-		<concentration2>Entrepreneurship</concentration2>
-	</person>
-	<person>
-		<firstname>Evan</firstname>
-		<lastname>Griffith</lastname>
-		<class>Junior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Finance &amp; Information Systems</concentration1>
-		<bio>Evan is a junior majoring in Business Administration with concentrations in Finance and Information Systems. He is currently the Marketing Director for Advertising Club UW, a student-run advertising agency. He is also active in case competitions, and recently placed first in the Diversity in Business Case Competition. Evan will be joining Amazon.com in the Spring as a Financial Analyst Intern for six months. After graduation, he hopes to pursue a career in Management Consulting, and go on to obtain an MBA. Evan is currently staffed on his first engagement with MCG working with King County Metro.</bio>
-		<position>Consultant</position>
-		<linkedin>http://www.linkedin.com/in/evancgriffith</linkedin>
-		<imagethumb>EvanG.jpg</imagethumb>
-	</person>
-	<person>
-		<firstname>Munir</firstname>
-		<lastname>Nanjee</lastname>
-		<class>Junior</class>
-		<major1>Business Administration</major1>
-		<concentration1>Accounting and Information Systems</concentration1>
-		<bio>Munir is a junior majoring in Business Administration with a focus on Accounting and Information System. He has made a name for himself on campus by being involved with multiple activities and taking leadership roles. He is currently the president of Sigma Beta Rho Fraternity and co-founder of an activist group on campus. He was also on the executive board for his hall council which was awarded top residence hall community in the Western U.S. by the Pacific Affiliate of College and University Residence Hall (PACURH). Last summer he interned at Mercer and consulted for Sunkist, Value Click, and Children's Hospital in the areas of Health and Benefits. He has a passion for consulting and financial analysis. </bio>
-		<position>Consultant</position>
-		<linkedin>http://www.linkedin.com/pub/munir-nanjee/16/547/46b</linkedin>
-		<imagethumb>MunirN.jpg</imagethumb>
-	</person>
-	<person>
 		<firstname>Wuen</firstname>
 		<lastname>Ong</lastname>
-		<class>Sophomore</class>
+		<class>Junior</class>
 		<major1>Business Administration</major1>
 		<bio>Wuen is a sophomore pursuing a degree in Business Administration and intends to earn a Certificate of International Studies in Business. With a passion for teamwork, she has participated in both local and international case competitions and placed on finalist teams three times within the past year. Wuen is currently the Vice President of Marketing &amp; Information Management at AIESEC Seattle, a local chapter of the largest student-run organization in the world, and additionally serves on the Executive Committee for the Lavin Entrepreneurial Program, helping to involve fellow students in the burgeoning startup community of Seattle. Outside of school and student organizations, Wuen enjoys being with friends and family, playing various stringed instruments, singing, and dancing.</bio>
 		<position>Consultant</position>
@@ -287,7 +147,7 @@ With the help of MCG, Cory has realized that the management consulting industry 
 	<person>
 		<firstname>Tim</firstname>
 		<lastname>Tan</lastname>
-		<class>Junior</class>
+		<class>Senior</class>
 		<major1>Business Administration</major1>
 		<concentration1>Customer</concentration1>
 		<major2>Informatics</major2>
@@ -296,5 +156,146 @@ With the help of MCG, Cory has realized that the management consulting industry 
 		<linkedin>http://www.linkedin.com/in/itstimtime</linkedin>
 		<imagethumb>TimT.jpg</imagethumb>
 		<concentration2>Custom</concentration2>
+	</person>
+	<person>
+		<firstname>Cameron</firstname>
+		<lastname>Chinn</lastname>
+		<class>Junior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Finance &amp; Information Systems</concentration1>
+		<bio>Cameron is a junior majoring in Business Administration with a focus in Finance and Information Systems. His work experience includes working in the areas of microfinance, financial services, and insurance. For the past year, Cameron has worked at Liberty Mutual as a Product Analyst Intern and this Summer will transition to Amazon.com as a Financial Analyst Intern for six months.  He is also active in case competitions, having won the Ernst &amp; Young/UMCA Case Competition and organized the Global Business Case Competition and the Wells Fargo Case Competition.  In his free time he likes to spend time on the golf course or on the ski slopes.  After obtaining a Masters of Science in Information Systems, he hopes to pursue a career with a technology firm and create his own business.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/pub/cameron-chinn/20/7a6/401</linkedin>
+		<imagethumb>CameronC.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Tomoki</firstname>
+		<lastname>Lam</lastname>
+		<class>Junior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Finance &amp; Information Systems</concentration1>
+		<bio>Tomoki is a Junior majoring in Business Administration with focuses in Finance and Information Systems. He has worked at Summerfield Commercial in the past as a real estate finance researcher and has also participated in a few case competitions. He is also currently the treasurer of Psi Upsilon and is working at Amazon this summer and fall as a financial analyst. Tomoki hopes to pursue something within the financial field and obtain an MBA after a few years of work experience. He is looking forward to working with all the talented members of MCG and gaining real world business experiences to grow his financial skill sets.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/in/tomokilam</linkedin>
+		<imagethumb>TomokiL.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Curtis</firstname>
+		<lastname>Lan</lastname>
+		<class>Senior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Marketing, Finance</concentration1>
+		<bio>Curtis is a junior majoring in Marketing and Finance at the Foster School of Business. His work experience includes starting his own social travel network company where he acts primarily as a strategy analyst. He is currently interning at Search Engine Optimist where he analyzes the internet presence of clients. This summer, he will be interning at Microsoft as an Associate Product Manager Intern.  His extracurricular interests include playing the cello, tennis, and reading.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/in/curtislan</linkedin>
+		<imagethumb>CurtisL.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Quinn</firstname>
+		<lastname>Lawlor</lastname>
+		<class>Junior</class>
+		<position>Consultant</position>
+		<imagethumb>QuinnL.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Michael</firstname>
+		<lastname>Manolides</lastname>
+		<class>Junior</class>
+		<position>Consultant</position>
+		<imagethumb>MichaelM.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Jonathan</firstname>
+		<lastname>Matson</lastname>
+		<class>Senior</class>
+		<major1>Business Administration</major1>
+		<concentration1>International Business &amp; Finance</concentration1>
+		<bio>Jonathan is a junior majoring in Business Administration with a focus in finance. He is also working to complete the Certificate of International Studies in Business (CISB) program in the french language track, and plans to complete a semester abroad in Lyon, France, beginning Winter 2014. As a freshman at UW he joined in the re-founding of the Alpha Delta Phi fraternity, and has since held numerous leadership roles as the house subsequently grew from 20 to 80+ members. He is passionate about helping people,  which has led him to volunteer with several  organizations over the years including Dream Project, the Hand &amp; Heart, and Big Brothers Big Sisters. He is currently a team and board member of the Washington Boxing Team, and in his free time he enjoys being with friends and family, outdoor activities, and traveling. After finishing college Jonathan plans to join the workforce to gain some experience and then return to school for a graduate degree in business or law.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/pub/jonathan-matson/26/294/329</linkedin>
+		<imagethumb>JonathanM.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Cameron</firstname>
+		<lastname>Najmabadi</lastname>
+		<class>Junior</class>
+		<major1>Applied Mathematics</major1>
+		<major2>Economics</major2>
+		<bio>Cameron is a sophomore majoring in Applied Mathematics and Economics, with an emphasis in finance. His work experiences include working for UBS as a private wealth management intern. On his spare time Cameron enjoys reading about capital markets and playing an active role in the Husky Traders Student Investmend Fund. Cameron hopes to earn a Masters degree in business administration.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/pub/cameron-najmabadi/38/850/701</linkedin>
+		<imagethumb>CameronN.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Chaitrali</firstname>
+		<lastname>Pimparkar</lastname>
+		<class>Senior</class>
+		<major1>Informatics</major1>
+		<concentration1>Information Security and Assurance</concentration1>
+		<bio>Chaitrali Pimparkar is a junior at the University of Washington, pursuing a degree in Informatics with a focus in Information Security and Assurance. Her passion for bridging the gap between people, information, and technology has led to her involvement with iSchool Leadership as the Director of Outreach for IUGA, as well as her service on the Informatics Program Committee. She currently works as a Technology Assistant at the Foster School of Business, managing BlackBoard technologies and MediaSite applications. Chaitrali’s consulting experiences include working as an IT Consultant with UW-IT, and leading a systems analysis project with Microsoft Finance. With an interest in risk and assurance, she is in the process of receiving her Certificate of Information Security through the Master of Science in Information Management Program at the Information School. Previously, Chaitrali had the opportunity to intern with Vertafore as an Associate Software Engineer, and contributed to the development of an Automation Test Framework for Agency Management Systems. Aside from academics; she is the President of her dance team, and has an affinity for travelling, painting, and learning new languages. Starting in June 2012, Chaitrali is looking forward to interning with Deloitte &amp; Touche as an Advisory Consultant in Technology Risk.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/profile/view?id=102054137&amp;trk=tab_pro</linkedin>
+		<imagethumb>ChaitraliP.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Jet</firstname>
+		<lastname>Saini</lastname>
+		<class>Junior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Finance &amp; Information systems</concentration1>
+		<bio>Jet is a sophomore majoring in Business Administration – Finance and Information Systems with a Dance Minor. He is currently the Marketing Chair for Ascend UW, helping promote Asian leadership in the business community. He spent this past summer interning as a Project Analyst with the Federal Reserve Bank of San Francisco will be an Advisory Consultant at his internship with Deloitte and Touche this summer. Jet has also been a hip-hop dancer for 2 years now and when he’s not on stage you can find him at the nearest court playing volleyball.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/in/gurjits</linkedin>
+		<imagethumb>JetS.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Catriona</firstname>
+		<lastname>Scott</lastname>
+		<class>Senior</class>
+		<position>Consultant</position>
+		<imagethumb>CatrionaS.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Brennen</firstname>
+		<lastname>Smith</lastname>
+		<class>Junior</class>
+		<major1>Informatics</major1>
+		<concentration1>Information Architecture</concentration1>
+		<bio>Brennen is a junior in Informatics focusing on Information Architecture. His work experiences range from developing large scale payroll and logistics systems to security auditing for healthcare providers. He is currently working for the Foster School of Business as an IT specialist and Janicki Industries for advanced network design and deployment. He is also in the process of starting a company, Fathom Computers, which specializes in developing advanced marine navigational systems. Brennen is a three time recipient of the NASA Space Grant, a member of UW's Honors Program, and a Washington Aerospace Scholar. He currently holds advanced ABYC certifications and was on the North American Junior Olympic Team for alpine ski racing.</bio>
+		<position>Consultant</position>
+		<imagethumb>BrennenS.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Nashua</firstname>
+		<lastname>Springberry</lastname>
+		<class>Junior</class>
+		<major1>Business with CISB (Chinese Track)</major1>
+		<concentration1>Finance</concentration1>
+		<bio>Nashua is a Junior majoring in Business with concentration in Finance. He is also pursuing a Certificate of International Studies in Business (CISB) on the Chinese track. His work experience includes working for Eastern Washington Universities Business Resource Center, various political campaigns, as an intern at Pacific Capital Resource Group, and starting this summer he'll be a financial analyst intern at Amazon. At the University of Washington he has also won both the PwC and KPMG case competitions. Including being selected out of 65 different winning teams from universities across the country to compete at Nationals. The first team in UW history to be so honored. Nashua is also on the Associated Students of the University of Washington's Finance and Budget Committee and a associate member of the Husky Traders Investment Fund. This is Nashua's first year at MCG and he looks forward to making it a great one.</bio>
+		<position>Consultant</position>
+		<imagethumb>NashuaS.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Maia</firstname>
+		<lastname>Szafer</lastname>
+		<class>Senior</class>
+		<major1>Business Administration</major1>
+		<concentration1>Accounting</concentration1>
+		<major2>Computer Science</major2>
+		<bio>Maia is pursuing degrees in Computer Science and Business Administration, with a focus in Accounting. She has been involved in the community as a teaching assistant for the UW's Department of Computer Science and Engineering and looks forward to contributing to Montlake Consulting Group in the upcoming years.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/pub/maia-szafer/27/5a3/981</linkedin>
+		<imagethumb>MaiaS.jpg</imagethumb>
+	</person>
+	<person>
+		<firstname>Mason</firstname>
+		<lastname>Wrolstad</lastname>
+		<class>Senior</class>
+		<major1>Informatics</major1>
+		<concentration1>Information Architecture</concentration1>
+		<bio>Mason is a junior majoring in Informatics with an Information Architecture focus. He is working for Boeing this upcoming summer as an Information Analyst at the Bellevue campus. This includes working with a wide variety of people to solve desktop solutions. In the past Mason has worked at Synrad Inc, a world leader in laser manufacturing, as a information tech. Through time in the Informatics program, Mason has obtained several technical skills and hopes to use this technical knowledge to enter the professional world as a consultant after graduation.</bio>
+		<position>Consultant</position>
+		<linkedin>http://www.linkedin.com/pub/mason-wrolstad/39/42/6b9</linkedin>
+		<imagethumb>MasonW.jpg</imagethumb>
 	</person>
 </people>
