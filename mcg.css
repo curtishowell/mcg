@@ -473,6 +473,7 @@ hr {
 .left_party > img {
 	margin-bottom: 10px;
 	box-shadow: 5px 5px 10px -3px #888;
+	width: 225px;
 }
 
 .left_party > p {

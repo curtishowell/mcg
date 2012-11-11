@@ -109,7 +109,7 @@
 							
 							
 							<!--<div id="logo">-->
-							<a href="index.php" id="logo">
+							<a href="/" id="logo">
 								<img src="img/logo_text.png" alt"Moltlake Consulting Group" />
 							</a>
 						<!--	</div>-->
@@ -147,7 +147,7 @@
 		$counter = 0;
 		
 		
-		$pages = array("services.php" => "Services", "projects.php" => "Projects", "team.php" => "Our Team", "aboutus.php" => "About", "contact.php" => "Contact");
+		$pages = array("services" => "Services", "projects" => "Projects", "team" => "Our Team", "aboutus" => "About", "contact" => "Contact");
 		
 		foreach( $pages as $uri => $name){
 			if($counter == $pageIndex){
@@ -178,10 +178,10 @@
 			
 			<ul>
 				<li>
-					<a href="index.php">Home</a>
+					<a href="/">Home</a>
 				</li>
 				<li>
-					<a href="join.php">Join MCG</a>
+					<a href="join">Join MCG</a>
 				</li>
 				<li class="last_item">
 					<a target="_blank" href="https://sites.google.com/site/mcgmembers">Member Login</a>
