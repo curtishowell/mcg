@@ -43,6 +43,9 @@
 				</a>			
 			</li>
 			
+			<?php
+			/*
+			
 			<li>
 				<a href="projects.php" class="info" style="background-image: url('img/homepage/phones.jpg')">
 					<div class="words">
@@ -51,9 +54,13 @@
 					</div>
 				</a>			
 			</li>
+			
+			*/
+			?>
 
 		</ul>
 		
+
 		
 		
 		<hr />
